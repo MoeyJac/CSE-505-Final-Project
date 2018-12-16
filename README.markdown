@@ -17,7 +17,7 @@ Once s(ASP) has been configured and SWI-Prolog installed this program can be run
 
 `./sasp -i -la -s0 parkinsons.lp`
 
-This starts s(ASP) in interactive mode which launches an swi like terminal. Once the terminal is open queries can be passed. For example:
+This starts s(ASP) in interactive mode which launches an swi like terminal, reading from the `parkinsons.lp` file. Once the terminal is open queries can be passed. For example:
 
 `?- recommendation(clozapine).`
 
