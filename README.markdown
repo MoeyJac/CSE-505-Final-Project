@@ -29,7 +29,7 @@ If this query is run on the default facts the program will print:
 Abducibles: { diagnosis(response_fluctuation) }
 ```
 
-I lists the facts that it found to be true in the first part of the statement, and in the abduciles section it lists what must be true in the set of given facts for the query to be true, and by extension for the doctors treatment recommendation to be compliant with guidelines.
+It lists the facts that can be found to be true in the first part of the statement, and in the abduciles section it lists what must be true in the set of given facts for the query as a whole to be true, and by extension for the doctors treatment recommendation to be compliant with guidelines.
 
 ### Modifying Patient Information
 
