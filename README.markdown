@@ -1,6 +1,7 @@
 # Improving Adherence to Parkinson's Treatment Management Guidelines via Abductive Reasoning
 
-This is a incomplete implementation of treatment guidelines for patients diagnosed with Parkinson's Disease. This work is an extension of the paper by Zhuo Chen, Elmer Salazar, Kyle Marple, Gopal Gupta, and Lakshman Tamil at University of Texas at Dallas entitled [*Improving Adherence to Heart Failure Management Guidelines via Abductive Reasoning*](https://arxiv.org/pdf/1707.04957.pdf)
+This is a incomplete implementation of treatment guidelines for patients diagnosed with Parkinson's Disease. This work is an extension of the paper by Zhuo Chen, Elmer Salazar, Kyle Marple, Gopal Gupta, and Lakshman Tamil at University of Texas at Dallas entitled [*Improving Adherence to Heart Failure Management Guidelines via Abductive Reasoning*](https://arxiv.org/pdf/1707.04957.pdf).
+
 Also included is a re-implementation of the code provided from [this paper](https://arxiv.org/pdf/1707.04957.pdf) for example purposes.
 
 ## Documentation
